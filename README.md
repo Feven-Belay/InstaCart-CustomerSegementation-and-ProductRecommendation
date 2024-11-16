@@ -1,6 +1,3 @@
-# Save the README content into a file
-
-readme_content = """
 # Customer Segmentation and Product Recommendation System
 
 ## Overview
